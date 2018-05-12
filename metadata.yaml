@@ -1,0 +1,33 @@
+_repo: The-Bobbin-Boyor-How-Nat-Got-His-learning_19875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thayer, William Makepeace
+    alias: Thayer, William M. (William Makepeace)
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '3095'
+    url: http://www.gutenberg.org/2009/agents/3095
+description: ''
+gutenberg_issued: '2006-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-culture -- Juvenile literature'
+- !lcsh 'Statesmen -- United States -- Biography -- Juvenile literature'
+- !lcsh 'Temperance -- Juvenile literature'
+- !lcsh 'Political oratory -- Juvenile literature'
+- !lcc 'E456'
+- !lcsh 'Banks, Nathaniel Prentiss, 1816-1894'
+title: 'The Bobbin Boy
+
+  or,  How Nat Got His learning'
+url: http://www.gutenberg.org/ebooks/19875
